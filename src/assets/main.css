@@ -1,0 +1,6 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1600px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
